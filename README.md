@@ -54,5 +54,8 @@ These are some of the major technologies that I use or have worked on in the pas
   <a href="https://github.com/Terabyte17?tab=repositories">
     <img src="https://badges.pufler.dev/repos/sksubhash?style=flat-square&color=black&logo=github">
   </a>
+   <a href="https://github.com/sksubhash">
+     <img src="https://badges.pufler.dev/visits/sksubhash/sksubhash?style=flat-square&color=black&logo=github">
+   </a>
 </p>
 </div>
