@@ -18,6 +18,7 @@ or <a href="mailto:skbn0099@gmail.com"><b>email</b></a> me.
 
 
 <hr>
+
 ## Skill Set :muscle:
 
 These are some of the major technologies that I use or have worked on in the past: <br>
@@ -27,10 +28,14 @@ These are some of the major technologies that I use or have worked on in the pas
 </p>
 
 <hr>
+
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/subhash-kumar-bijaraniya-361368152/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://twitter.com/mr_sk_subhash"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a>|<a href="https://www.facebook.com/mrsksubhash"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a>|<a href="mailto:skbn0099@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a>|<a href="https://www.instagram.com/sk_subhash/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a>|<a href="https://subhashchoudhary.ml/"><img src="https://img.icons8.com/fluent/48/000000/domain.png" width="40"></a>
-|--|--|--|--|--|
+| <a href="https://www.linkedin.com/in/subhash-kumar-bijaraniya-361368152/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> | <a href="https://twitter.com/mr_sk_subhash"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-128.png" width="40"></a> | <a href="https://www.facebook.com/mrsksubhash"><img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-128.png" width="40"></a> | <a href="mailto:skbn0099@gmail.com"><img src="https://image.flaticon.com/icons/svg/281/281769.svg" width="40"></a> | <a href="https://www.instagram.com/sk_subhash/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-128.png" width="40"></a> | <a href="https://subhashchoudhary.ml/"><img src="https://img.icons8.com/fluent/48/000000/domain.png" width="40"></a> |
+|:---:|:----:|:---:|:---:|:---:|:---:|
+
+
+
 
 </div>
 
@@ -40,6 +45,7 @@ These are some of the major technologies that I use or have worked on in the pas
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=sksubhash&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="subhash's Github Stats">
 </div>
 
+<br>
 <div align="center">
 <p align=center>
     <a href="https://github.com/sksubhash">
